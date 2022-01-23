@@ -39,12 +39,7 @@ nav a {
     color: white;
     
 }
-/*new*/
-/* header::after {
-  content: "";
-  clear: both;
-  display: block;
-} */
+
 nav a:visited{
     color: rgb(133, 228, 191);
     font-size: 20px;
@@ -65,11 +60,7 @@ h2 {
 section {
     min-height: 7vh;
 }
-  /* .row::after {
-    content: "";
-    clear: both;
-    display: block;
-  } */
+  
   
   
   
@@ -126,18 +117,9 @@ section {
     margin-right: 8px;
     object-fit: cover;
 }
-/* .jyo {
-    background-color: #050505;
-    height: 20vh;
-    width: 30%;
-    word-spacing: 5px;
-    padding: 8px;
-    object-fit: cover;
-} */
 
-/* .jyo {
-background-color: #050505;
-} */
+
+
 
 .owner {
     padding: 10px;
@@ -151,7 +133,7 @@ section h5 {
 
 footer {
     background-color: rgb(8, 8, 8);
-    /* overflow: hidden; */
+  
     margin-bottom: 0px;
 }
  
@@ -241,14 +223,7 @@ img {
         width: 18vh;
         
     }
-    /* nav a {
-        text-decoration: none;
-        padding: 15px;
-        text-align: center;
-        float: left;
-        color: white;
-        font-size: 11px;
-    } */
+ 
     header{
         padding: 20px;
         background-color: rgb(199, 15, 15);
@@ -266,17 +241,7 @@ img {
       word-spacing: 5px;
     }
     footer a {
-      /* text-decoration: none;
-      padding: 0px;
-      margin: 0px;
-      font-size: 15px;
-      font-weight: bold;
-      text-align: center;
     
-      word-wrap: normal;
-      float: left;
-      text-indent: 10%;
-      color: white; */
       text-decoration: none;
         padding: 15px;
         text-align: center;
@@ -307,8 +272,5 @@ img {
     float: left;
     padding: 15px;
   }
- /* .denver{
-   height: 40vh;
-   width: 45vh;
- } */
+ 
  
